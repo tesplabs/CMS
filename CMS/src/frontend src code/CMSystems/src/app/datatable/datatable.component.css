@@ -1,0 +1,117 @@
+.component-list {
+    display: flex;
+    flex-direction: column;
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 3.75rem;
+    overflow: auto;
+    background-color: #f6f5fc;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0%;
+    color: black;
+}
+
+.search-dialog{
+    display: flex;
+    height: 2.87rem;
+    margin-top: 0%;
+}
+
+.button-container{
+    position: fixed;
+    right: 2.5%;
+    display: flex;
+    gap: 0.3rem;
+    cursor: pointer;
+}
+
+.button-container button {
+    background-color: #12085e;
+    color: white;
+    width: 2.81rem; 
+    height: 2.81rem; 
+    border: 0.19rem solid black;
+    border-radius: 50%; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    cursor: pointer;
+    outline: none;
+    font-size: 1.5rem;
+}   
+
+.button-container button:hover {
+    background-color: #0d3358; 
+}
+
+.table-container {
+    margin: 1.3rem; 
+}
+
+.sort-icon {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 0.3rem solid transparent;
+    border-right: 0.3rem solid transparent;
+    border-bottom: 0.4rem solid white; 
+    margin-right: 0.3rem;
+}
+  
+mat-table{
+    flex: 1 1 auto;
+    overflow-y: auto;
+    display: block;
+    margin-top: 0;
+    border: 0.13rem solid black;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    background-color: #f6f5fc;
+}
+
+mat-header-row {
+    display: flex;
+    width: 100%;
+    background-color: #12085e;
+    color: white;
+    font-family: "Gotham-Light";
+}
+
+mat-header-cell, mat-cell{
+    justify-content: center;
+}
+  
+mat-row:hover {
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
+
+mat-form-field {
+    width: 20%; 
+    box-sizing: border-box;
+    height: 3.75rem;
+}
+
+mat-paginator{
+    background-color: #f6f5fc;
+}
+input[matInput] {
+    margin-left: 0.5rem;
+    width: 9.375rem;
+}
+
+.action-icons{
+    height: 1.3rem;
+    width: 1.3rem;
+}
+
+.action-buttons{
+    display: flex;
+    gap: 0.6rem;
+    margin-right: -0.6rem;
+}

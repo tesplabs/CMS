@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(4, 44, 31);
+    color: #fff;
+    height: 1.6rem;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.name {
+    font-size: 0.8rem;
+    font-weight: normal;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.6rem;
+    margin-left: 0.9rem;
+    margin-right: 0.9rem;
+    color: whitesmoke;
+}

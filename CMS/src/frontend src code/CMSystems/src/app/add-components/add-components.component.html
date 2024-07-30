@@ -1,0 +1,47 @@
+<div class="form-control">
+    <label [for]="inputId">{{ label }}</label>
+    <div class="container">
+
+        <ng-container *ngIf="type !== 'date'; else datePickerInput">
+            <ng-container *ngIf="!isDropdown; else dropdownInput">
+                <input 
+                [class.invalid]="control.invalid && (control.dirty || control.touched)" 
+                [formControl]="control"
+                [type]="type" 
+                [id]="inputId" 
+                [placeholder]="placeholder" 
+            />
+            </ng-container>
+            <ng-template #dropdownInput>
+                <select [formControl]="control" [id]="inputId" class="custom-select">
+                    <option *ngFor="let option of options" [value]="option.value">
+                        {{ option.viewValue }}
+                    </option>
+                </select>
+            </ng-template>
+        </ng-container>
+
+        <ng-template #datePickerInput>
+            <div class="input-container">
+                <input 
+                    matInput
+                    [class.invalid]="control.invalid && (control.dirty || control.touched)" 
+                    [formControl]="control"
+                    [placeholder]="placeholder"
+                    [matDatepicker]="picker"
+                    readonly
+                    class="date-picker-input" 
+                    (click)="picker.open()"
+                />
+                <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+            </div>
+        </ng-template>
+
+        <div class="error-container" *ngIf="control.invalid && (control.dirty || control.touched)">
+            <div *ngFor="let err of control.errors | keyvalue" class="error-message">
+                {{ errorMessages[err.key] }}
+            </div>
+        </div>
+    </div>
+</div>

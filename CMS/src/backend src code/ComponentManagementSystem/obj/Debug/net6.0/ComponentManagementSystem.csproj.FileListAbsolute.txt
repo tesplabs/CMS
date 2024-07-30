@@ -1,0 +1,178 @@
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.exe
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.deps.json
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.runtimeconfig.json
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.pdb
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.AssemblyInfo.cs
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.ComponentManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ComponentManagementSystem.props
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ComponentManagementSystem.props
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ComponentManagementSystem.props
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\scopedcss\bundle\ComponentManagementSystem.styles.css
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.CopyComplete
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\refint\ComponentManagementSystem.dll
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.pdb
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.genruntimeconfig.cache
+C:\Users\user\source\repos\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ref\ComponentManagementSystem.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.exe
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.deps.json
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.runtimeconfig.json
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.pdb
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.AssemblyInfo.cs
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\scopedcss\bundle\ComponentManagementSystem.styles.css
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.CopyComplete
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\refint\ComponentManagementSystem.dll
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.pdb
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.genruntimeconfig.cache
+C:\Users\rahul\Downloads\ComponentManagementSystem\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ref\ComponentManagementSystem.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\appsettings.json
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.exe
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.deps.json
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.runtimeconfig.json
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.pdb
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.AssemblyReference.cache
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.AssemblyInfoInputs.cache
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.AssemblyInfo.cs
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.CoreCompileInputs.cache
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.ComponentManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ComponentManagementSystem.props
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ComponentManagementSystem.props
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ComponentManagementSystem.props
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\scopedcss\bundle\ComponentManagementSystem.styles.css
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.CopyComplete
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\refint\ComponentManagementSystem.dll
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.pdb
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.genruntimeconfig.cache
+E:\Angular\CMS backend\ComponentManagementSystem_APIs\ComponentManagementSystem\obj\Debug\net6.0\ref\ComponentManagementSystem.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.exe
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.deps.json
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.runtimeconfig.json
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\ComponentManagementSystem.pdb
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.AssemblyInfo.cs
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.ComponentManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ComponentManagementSystem.props
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ComponentManagementSystem.props
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ComponentManagementSystem.props
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\scopedcss\bundle\ComponentManagementSystem.styles.css
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\Componen.A0727478.Up2Date
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\refint\ComponentManagementSystem.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.pdb
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ComponentManagementSystem.genruntimeconfig.cache
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\obj\Debug\net6.0\ref\ComponentManagementSystem.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\EPPlus.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\RaviRV\Downloads\ComponentManagementSystem\ComponentManagementSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

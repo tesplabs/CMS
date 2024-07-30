@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GTE84ocVfcONhoHqaqv7JQtLdJ8jdnabJW/yLIYwSq0=",
+  "Source": "ComponentManagementSystem",
+  "BasePath": "_content/ComponentManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

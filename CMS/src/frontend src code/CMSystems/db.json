@@ -1,0 +1,133 @@
+{
+  "components": [
+    {
+      "manufacturerPartNum": "CK05",
+      "packageSize": "6",
+      "quantityAvailable": "5",
+      "entryDate": "09/05/2024",
+      "binNumber": "1",
+      "rackNumber": "1",
+      "projectUsed": "project1"
+    },
+    {
+      "id": "e895",
+      "manufacturerPartNum": "14NM",
+      "packageSize": "8",
+      "quantityAvailable": "43",
+      "entryDate": "2024-05-22",
+      "binNumber": "53",
+      "rackNumber": "63",
+      "projectUsed": "CMS"
+    },
+    {
+      "id": "5ec5",
+      "manufacturerPartNum": "73NH",
+      "packageSize": "32",
+      "quantityAvailable": "65",
+      "entryDate": "2024-05-22",
+      "binNumber": "25",
+      "rackNumber": "225",
+      "projectUsed": "CMS"
+    },
+    {
+      "id": "560d",
+      "manufacturerPartNum": "74JF",
+      "packageSize": "67",
+      "quantityAvailable": "8",
+      "entryDate": "2024-05-23",
+      "binNumber": "25",
+      "rackNumber": "26",
+      "projectUsed": "CMS"
+    },
+    {
+      "id": "aef4",
+      "manufacturerPartNum": "KT92",
+      "packageSize": "24",
+      "quantityAvailable": "14",
+      "entryDate": "2024-05-23",
+      "binNumber": "36",
+      "rackNumber": "24",
+      "projectUsed": "rgg"
+    },
+    {
+      "id": "fc4c",
+      "manufacturerPartNum": "RH24",
+      "packageSize": "7",
+      "quantityAvailable": "4",
+      "entryDate": "2024-05-23",
+      "binNumber": "30",
+      "rackNumber": "245",
+      "projectUsed": "rgg"
+    },
+    {
+      "id": "19ba",
+      "manufacturerPartNum": "ERT56",
+      "packageSize": "67",
+      "quantityAvailable": "11",
+      "entryDate": "2024-05-23",
+      "binNumber": "15",
+      "rackNumber": "345",
+      "projectUsed": "CMS"
+    },
+    {
+      "id": "e174",
+      "manufacturerPartNum": "JDSH4583",
+      "packageSize": "56",
+      "quantityAvailable": "42",
+      "entryDate": "2024-05-23",
+      "binNumber": "641",
+      "rackNumber": "16341",
+      "projectUsed": "CMS"
+    },
+    {
+      "id": "ec54",
+      "manufacturerPartNum": "JHKF76",
+      "packageSize": "3",
+      "quantityAvailable": "51",
+      "entryDate": "2024-05-23",
+      "binNumber": "514",
+      "rackNumber": "461",
+      "projectUsed": "rgg"
+    },
+    {
+      "id": "6326",
+      "manufacturerPartNum": "CH4327",
+      "packageSize": "23",
+      "quantityAvailable": "1341",
+      "entryDate": "2024-05-23",
+      "binNumber": "235",
+      "rackNumber": "314",
+      "projectUsed": "CMS"
+    },
+    {
+      "id": "049d",
+      "manufacturerPartNum": "JFF237",
+      "packageSize": "93",
+      "quantityAvailable": "312",
+      "entryDate": "2024-05-23",
+      "binNumber": "351",
+      "rackNumber": "5123",
+      "projectUsed": "CMS"
+    },
+    {
+      "id": "dfab",
+      "manufacturerPartNum": "312GHD",
+      "packageSize": "46",
+      "quantityAvailable": "35",
+      "entryDate": "2024-05-23",
+      "binNumber": "345",
+      "rackNumber": "34561",
+      "projectUsed": "CMS"
+    },
+    {
+      "id": "a612",
+      "manufacturerPartNum": "KCM78",
+      "packageSize": "85",
+      "quantityAvailable": "264",
+      "entryDate": "2024-05-24",
+      "binNumber": "136",
+      "rackNumber": "4624",
+      "projectUsed": "CMS"
+    }
+  ]
+}

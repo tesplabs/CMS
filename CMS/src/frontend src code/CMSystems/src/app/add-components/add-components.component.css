@@ -1,0 +1,105 @@
+.form-control {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 0.9rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-control label{
+    flex: 0 0 11.25rem;
+    margin-bottom: 0.3rem;
+    font-size: 1.1rem;
+    white-space: nowrap;  
+    overflow: hidden;
+    padding-right: 0.6rem;
+}
+
+.container{
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.form-control input, 
+.form-control select,
+.date-picker-input {
+    width: 100%; 
+    padding: 0.43rem;
+    border: 0.06rem solid black;
+    border-radius: 0.19rem;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.custom-select{
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: right 0.6rem center;
+    background-size: 0.5rem 0.6rem;
+}
+
+.input-container {
+    position: relative;
+    display: flex;
+    width: 100%;
+    margin-top: 0.06rem;
+    margin-bottom: 0.06rem;
+}
+
+.date-picker-input {
+    /* flex: 1; */
+    border: 0.06rem solid #ccc;
+    border-radius: 0.19rem;
+    padding: 0.43rem;
+    font-size: 0.9rem;
+    outline: none;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: 2rem;
+    margin: 0;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.6rem;
+    margin-top: 0; 
+} 
+ 
+.container{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.error-container{
+    position: absolute;
+    top: 80%;
+    left: 0;
+}
+
+.mat-datepicker-toggle {
+    margin-left: -3.438rem;
+    margin-right: auto;
+    height: 1.5rem;
+    width: 1.5rem;
+    display: flex;
+    align-items: center;
+    margin-top: 0.4rem;
+}
+
+.mat-datepicker-toggle button {
+    height: 1.5rem;
+    width: 1.5rem;
+    padding: 0;
+}
+
+.mat-datepicker-toggle .mat-icon {
+    font-size: 1.1rem;
+}
+
+.mat-datepicker-content {
+    font-size: 0.8rem; 
+}

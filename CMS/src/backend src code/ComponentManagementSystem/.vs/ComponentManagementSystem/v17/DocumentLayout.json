@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|c:\\users\\ravirv\\downloads\\componentmanagementsystem\\componentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|c:\\users\\ravirv\\downloads\\componentmanagementsystem\\componentmanagementsystem\\controllers\\componentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|solutionrelative:controllers\\componentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|c:\\users\\ravirv\\downloads\\componentmanagementsystem\\componentmanagementsystem\\services\\icomponentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|solutionrelative:services\\icomponentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|c:\\users\\ravirv\\downloads\\componentmanagementsystem\\componentmanagementsystem\\services\\componentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|solutionrelative:services\\componentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|c:\\users\\ravirv\\downloads\\componentmanagementsystem\\componentmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06ED61B7-A0DA-4615-BAD8-847846D39609}|ComponentManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IComponentServices.cs",
+              "DocumentMoniker": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\Services\\IComponentServices.cs",
+              "RelativeDocumentMoniker": "Services\\IComponentServices.cs",
+              "ToolTip": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\Services\\IComponentServices.cs",
+              "RelativeToolTip": "Services\\IComponentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:35:27.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:52:38.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComponentsController.cs",
+              "DocumentMoniker": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\Controllers\\ComponentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComponentsController.cs",
+              "ToolTip": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\Controllers\\ComponentsController.cs",
+              "RelativeToolTip": "Controllers\\ComponentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:24:47.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T04:57:05.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComponentService.cs",
+              "DocumentMoniker": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\Services\\ComponentService.cs",
+              "RelativeDocumentMoniker": "Services\\ComponentService.cs",
+              "ToolTip": "C:\\Users\\RaviRV\\Downloads\\ComponentManagementSystem\\ComponentManagementSystem\\Services\\ComponentService.cs",
+              "RelativeToolTip": "Services\\ComponentService.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAA0wIwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:46:47.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

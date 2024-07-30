@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\rahul\Downloads\Component</_PublishTargetUrl>
+    <History>True|2023-11-15T07:57:54.5897157Z;True|2023-11-15T13:27:43.6925652+05:30;True|2023-11-15T13:08:24.5296319+05:30;True|2023-11-15T12:25:27.6506280+05:30;True|2023-11-10T14:37:34.6200104+05:30;True|2023-11-10T14:15:29.8971420+05:30;True|2023-11-10T14:06:11.2168743+05:30;True|2023-11-10T13:29:33.1677597+05:30;True|2023-11-10T13:23:50.9109053+05:30;True|2023-11-10T11:29:49.6612966+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

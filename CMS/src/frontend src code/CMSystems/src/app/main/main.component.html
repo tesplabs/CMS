@@ -1,0 +1,84 @@
+<div class="dialog-container">
+    <mat-tab-group>
+        <mat-tab label = "Add Component">
+            <div class="tab-container">
+                <form [formGroup]="formGroup" (ngSubmit)="onSubmit()">
+                    <h1 mat-dialog-title>{{ data && data.component ? 'Edit Component' : 'ADD Components' }}</h1>
+                    <app-add-components
+                        [control]="formGroup.controls.manufacturerPartNo"
+                        inputId="manufacturerPartNo"
+                        label="Manufacturer Part No."
+                    ></app-add-components>
+                    <app-add-components
+                        [control]="formGroup.controls.componentType"
+                        inputId="componentType"
+                        label="Component Type"
+                        [isDropdown]="true"
+                        [options]="componentTypeOptions"
+                    ></app-add-components>
+                    <app-add-components
+                        [control]="formGroup.controls.packageSize"
+                        inputId="packageSize"
+                        label="Package Size"
+                        [isDropdown]="true"
+                        [options]="packageSizeOptions"
+                    ></app-add-components>
+                    <app-add-components
+                        [control]="formGroup.controls.qtyAvailable"
+                        inputId="qtyAvailable"
+                        label="Quantity Available"
+                        type="number"
+                    ></app-add-components>
+                    <app-add-components
+                        [control]="formGroup.controls.entryDate"
+                        inputId="entryDate"
+                        label="Entry Date"
+                        placeholder="MM-DD-YYYY"
+                        type="date"
+                    ></app-add-components>
+                    <app-add-components
+                        [control]="formGroup.controls.binNo"
+                        inputId="binNo"
+                        label="Bin Number"
+                    ></app-add-components>
+                    <app-add-components
+                        [control]="formGroup.controls.rackNo"
+                        inputId="rackNo"
+                        label="Rack Number"
+                    ></app-add-components>
+                    <app-add-components
+                        [control]="formGroup.controls.projectUsed"
+                        inputId="projectUsed"
+                        label="Project Used"
+                    ></app-add-components>
+                    
+                    <span class="submit-buttons">
+                        <button type="button" (click)="onCancel()" class="button">Cancel</button>
+                        <button [disabled]="!formGroup.valid" type="submit" class="button">Submit</button> 
+                    </span>
+                
+                    <div *ngIf="message" [ngClass]="messageType === 'success' ? 'success-message' : 'error-message'">
+                        {{ message }}
+                    </div>
+                </form>
+            </div>
+        </mat-tab>
+    
+        <mat-tab label="Upload File">
+            <div class="tab-container upload-container">
+                <input type="file" (change)="onFileChange($event)" accept=".xlsx,.xls" />
+                <div class="button-container">
+                    <button type="button" (click)="onFileUpload()" [disabled]="!file">Upload</button>
+                    <button mat-button mat-dialog-close>Close</button>
+                </div>
+                
+                <div *ngIf="uploadMessage" class="success-message"> {{ uploadMessage }} </div>
+                <mat-progress-bar *ngIf="uploadProgress > 0" mode="determinate" [value]="uploadProgress"></mat-progress-bar>
+                 
+                <mat-dialog-actions>
+                    
+                </mat-dialog-actions>
+            </div>
+        </mat-tab>
+    </mat-tab-group>
+</div>
